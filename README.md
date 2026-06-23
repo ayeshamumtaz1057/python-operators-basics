@@ -11,4 +11,4 @@ This repository contains beginner Python programs for learning operators.
 
 ## Author
 Ayesha Mumtaz
-BS Information Technology - 8th Semester
+BS Information Technology - 5th Semester
