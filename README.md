@@ -1,14 +1,32 @@
-# Python Operators Basics 🐍
+# ➕ Python Operators
 
-This repository contains beginner Python programs for learning operators.
+## 📌 About
+Beginner Python programs covering all types 
+of operators. Part of my Python learning 
+journey toward becoming a Data Analyst.
 
-## Topics Covered
-- Arithmetic Operators
-- Comparison Operators
-- Logical Operators
-- Assignment Operators
-- Calculator Project
+## 📂 Topics Covered
+| Operator Type | Example |
+|---|---|
+| Arithmetic | +, -, *, /, % |
+| Comparison | ==, !=, >, < |
+| Logical | and, or, not |
+| Assignment | =, +=, -= |
 
-## Author
-Ayesha Mumtaz
-BS Information Technology - 5th Semester
+## 💡 What I Learned
+- How to use arithmetic operators
+- Comparing values with comparison operators
+- Combining conditions with logical operators
+- Shorthand assignment operators
+
+## 🛠️ Tools Used
+- Python 3
+- VS Code
+
+## 👩‍💻 Author
+**Ayesha Mumtaz** — BS IT Student  
+📍 Bahwalpur,Punjab, Pakistan  
+🔗 [LinkedIn](https://www.linkedin.com/in/ayesha-mumtaz-82b8913a9)
+
+## 📈 Status
+✅ Completed
